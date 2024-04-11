@@ -3,13 +3,16 @@
     padding: 0;
     font-family: 'Poppins', sans-serif;
 }
-body{
+
+body {
     background: #f7edff;
 }
-.buttons{
+
+.buttons {
     margin: 50px;
 }
-.buttons button{
+
+.buttons button {
     background: #333;
     color: #fff;
     border: 0;
