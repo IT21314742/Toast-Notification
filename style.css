@@ -22,6 +22,7 @@ body {
     margin: 5px;
     cursor: pointer;
 }
-#toastBox{
+
+#toastBox {
     position: absolute;
 }
