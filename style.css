@@ -29,4 +29,5 @@ body {
     right: 30px;
     display: flex;
     align-items: flex-end;
+    flex-direction: ;
 }
