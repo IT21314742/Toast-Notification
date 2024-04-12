@@ -44,5 +44,5 @@ body {
     display: flex;
     align-items: center;
     position: relative;
-    transform: translateX(100);
+    transform: translateX(100%);
 }
