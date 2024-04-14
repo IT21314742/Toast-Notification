@@ -49,6 +49,6 @@ body {
 }
 @keyframes moveleft{
     100%{
-        
+        transform: ;
     }
 }
