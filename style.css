@@ -48,5 +48,5 @@ body {
     animation: moveleft 0.5s linear forwards;
 }
 @keyframes moveleft{
-    
+    100
 }
