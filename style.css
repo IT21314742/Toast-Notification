@@ -61,4 +61,6 @@ body {
 .toast.error i{
     color: red;
 }
-.toast.Invalid i{}
+.toast.Invalid i{
+    
+}
