@@ -45,5 +45,5 @@ body {
     align-items: center;
     position: relative;
     transform: translateX(100%);
-    animation: moveleft 0.5s linear;
+    animation: moveleft 0.5s linear forwards;
 }
