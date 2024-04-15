@@ -65,5 +65,5 @@ body {
     color: orange;
 }
 .toast::after{
-    
+    content: ;
 }
