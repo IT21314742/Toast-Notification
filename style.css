@@ -66,4 +66,5 @@ body {
 }
 .toast::after{
     content: '';
+    
 }
