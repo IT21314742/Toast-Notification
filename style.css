@@ -64,4 +64,6 @@ body {
 .toast.Invalid i{
     color: orange;
 }
-.toast::after{}
+.toast::after{
+    
+}
