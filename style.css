@@ -75,5 +75,7 @@ body {
     animation: anim 5s linear forwards;
 }
 @keyframes anim{
-    100%{}
+    100%{
+        
+    }
 }
