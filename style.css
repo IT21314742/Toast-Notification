@@ -67,4 +67,5 @@ body {
 .toast::after{
     content: '';
     position: absolute;
+    
 }
