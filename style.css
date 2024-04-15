@@ -76,6 +76,6 @@ body {
 }
 @keyframes anim{
     100%{
-        width: ;
+        width: 0;
     }
 }
