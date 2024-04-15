@@ -79,4 +79,6 @@ body {
         width: 0;
     }
 }
-.toast.error::after{}
+.toast.error::after{
+    
+}
