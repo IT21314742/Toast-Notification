@@ -53,18 +53,22 @@ body {
         transform: translateX(0);
     }
 }
-.toast i{
+
+.toast i {
     margin: 0 20px;
     font-size: 35px;
     color: green;
 }
-.toast.error i{
+
+.toast.error i {
     color: red;
 }
-.toast.Invalid i{
+
+.toast.Invalid i {
     color: orange;
 }
-.toast::after{
+
+.toast::after {
     content: '';
     position: absolute;
     left: 0;
@@ -74,14 +78,17 @@ body {
     background: green;
     animation: anim 5s linear forwards;
 }
-@keyframes anim{
-    100%{
+
+@keyframes anim {
+    100% {
         width: 0;
     }
 }
-.toast.error::after{
+
+.toast.error::after {
     background: red;
 }
-.toast.Invalid::after{
+
+.toast.Invalid::after {
     background: orange;
 }
