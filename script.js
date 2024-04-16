@@ -1,2 +1,2 @@
 let toastBox = document.getElementById('toastBox');
-let
+let successMsg
