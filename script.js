@@ -1,1 +1,1 @@
-let toastBox = document.
+let toastBox = document.getElementById
