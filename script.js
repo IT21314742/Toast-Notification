@@ -1,1 +1,1 @@
-let toastBox = document.getElementById('toastBox')
+let toastBox = document.getElementById('toastBox');
