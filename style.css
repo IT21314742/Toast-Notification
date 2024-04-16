@@ -80,7 +80,7 @@ body {
 }
 
 @keyframes anim {
-    50% {
+    60% {
         width: 0;
     }
 }
