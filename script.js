@@ -7,5 +7,5 @@ function showToast(msg) {
     let toast = document.createElement('div');
     toast.classList.add('toast');
     toast.innerHTML = msg;
-    toastBo
+    toastBox
 }
