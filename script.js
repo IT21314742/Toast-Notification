@@ -5,5 +5,5 @@ let invalidMsg = '<i class="fa-solid fa-circle-exclamation"></i>Invalid input, c
 
 function showToast(msg) {
     let toast = document.createElement('div');
-    toast.classList.add()
+    toast.classList.add('')
 }
