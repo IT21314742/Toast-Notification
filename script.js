@@ -13,6 +13,6 @@ function showToast(msg) {
         toast.classList.add('error');
     }
     if(msg.includes('Invalid')){
-        toast.
+        toast.classList
     }
 }
