@@ -16,5 +16,7 @@ function showToast(msg) {
         toast.classList.add('Invalid');
     }
 
-    setTimeout(()=>{})
+    setTimeout(()=>{
+        
+    })
 }
