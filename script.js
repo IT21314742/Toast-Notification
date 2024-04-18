@@ -10,6 +10,6 @@ function showToast(msg) {
     toastBox.appendChild(toast);
 
     if (msg.includes('error')) {
-        toast.
+        toast.classList
     }
 }
