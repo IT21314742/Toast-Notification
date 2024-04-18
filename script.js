@@ -15,4 +15,5 @@ function showToast(msg) {
     if(msg.includes('Invalid')){
         toast.classList.add('Invalid');
     }
+    
 }
