@@ -17,6 +17,6 @@ function showToast(msg) {
     }
 
     setTimeout(()=>{
-        toast
+        toast.
     })
 }
