@@ -12,5 +12,5 @@ function showToast(msg) {
     if (msg.includes('error')) {
         toast.classList.add('error');
     }
-    if(msg.includes(''))
+    if(msg.includes('Invalid'))
 }
