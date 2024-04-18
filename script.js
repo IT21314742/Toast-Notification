@@ -12,4 +12,5 @@ function showToast(msg) {
     if (msg.includes('error')) {
         toast.classList.add('error');
     }
+    
 }
