@@ -9,5 +9,7 @@ function showToast(msg) {
     toast.innerHTML = msg;
     toastBox.appendChild(toast);
 
-    if (msg.includes('error')) {}
+    if (msg.includes('error')) {
+        
+    }
 }
