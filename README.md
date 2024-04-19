@@ -8,4 +8,6 @@ _**Key Features:**_
 
 - **Dynamic Content:** Deliver dynamic content within notifications, including messages, icons, and action buttons, to provide relevant information to users.
 
+- Responsive Design:
+
 
