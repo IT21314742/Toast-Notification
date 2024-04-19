@@ -8,6 +8,7 @@ _**Key Features:**_
 
 - **Dynamic Content:** Deliver dynamic content within notifications, including messages, icons, and action buttons, to provide relevant information to users.
 
-- **Responsive Design:** Ensure seamless display across devices with a responsivee layout that adapts to
+- **Responsive Design:** Ensure seamless display across devices with a responsivee layout that adapts to different screen sizes.
+
 
 
