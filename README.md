@@ -19,7 +19,7 @@ _**How to Use:**_
 3. **Customize** styles and settings as needed to seamlessly integrate the Toast Notification system into your project.
 
 
-_Enhance user engagement and communication with this versatile Toast Notification system. Explore, contribute, and leverage this project to deliver timely and relevant notifications to your users effectively._
+_Enhance user engagement and communication with this versatile Toast Notification system. Explore, contribute, and leverage this project to deliver timely and relevant notifications to your users effectively._ ❤😊
 
 
 
