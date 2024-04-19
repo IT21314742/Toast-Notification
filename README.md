@@ -2,4 +2,4 @@ Elevate user experience and interaction on your web applications with a Toast No
 
 _**Key Features:**_
 
-- **Non-Intrusive Alerts:**  Display notifications in
+- **Non-Intrusive Alerts:**  Display notifications in a subtle and unobtrusive
