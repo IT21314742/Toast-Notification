@@ -6,6 +6,6 @@ _**Key Features:**_
   
 - **Customizable Styles:** : Tailor the appearance of the toast notifications to match your application's design language and branding.
 
-- **Dynamic Content:**
+- **Dynamic Content:** Deliver dynamic content
 
 
