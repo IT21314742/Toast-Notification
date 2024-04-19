@@ -11,7 +11,7 @@ _**Key Features:**_
 - **Responsive Design:** Ensure seamless display across devices with a responsivee layout that adapts to different screen sizes.
 
 
-How to Use:
+**How to Use:**
 
 
 
