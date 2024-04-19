@@ -14,6 +14,8 @@ _**Key Features:**_
 _**How to Use:**_
 
 
-
+Clone the repository to access the necessary files.
+Embed the provided HTML, CSS, and JavaScript code snippets into your web application.
+Customize styles and settings as needed to seamlessly integrate the Toast Notification system into your project.
 
 
